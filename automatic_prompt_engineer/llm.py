@@ -13,7 +13,7 @@ from automatic_prompt_engineer import utils
 
 gpt_costs_per_thousand = {
     'gpt-4o-mini': 0.00015,
-    'gpt-4o': 0.0025
+    'gpt-4o': 0.0025,
     'davinci': 0.0200,
     'curie': 0.0020,
     'babbage': 0.0005,
